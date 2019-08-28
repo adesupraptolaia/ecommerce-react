@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production for travis
+# /build
 
 # misc
 .DS_Store
