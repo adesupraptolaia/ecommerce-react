@@ -59,7 +59,7 @@ class SignIn extends React.Component {
           <div className="col-md-4 col-lg-4 col-sm-12 col-xs-12">
             <div className="card">
               <article className="card-body">
-                <h4 className="card-title text-center mb-4 mt-1">Login</h4>
+                <h4 className="card-title text-center mb-4 mt-1">SignIn</h4>
                 <hr />
                 <p className="text-success text-center">
                   Silahkan masukkan username dan password
